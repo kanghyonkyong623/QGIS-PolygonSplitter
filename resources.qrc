@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="plugin">
+    <file>logo_241.png</file>
+    <file>itida_safeimage.png</file>
+    <file>logo_Noon_Solutions.jpg</file>
+  </qresource>
+</RCC>
